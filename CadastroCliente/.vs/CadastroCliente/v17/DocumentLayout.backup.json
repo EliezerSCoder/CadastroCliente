@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|c:\\users\\eliezer.psantos1\\source\\repos\\cadastrocliente\\cadastrocliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|c:\\users\\eliezer.psantos1\\source\\repos\\cadastrocliente\\cadastrocliente\\clientetipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|solutionrelative:clientetipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|c:\\users\\eliezer.psantos1\\source\\repos\\cadastrocliente\\cadastrocliente\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|solutionrelative:endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|c:\\users\\eliezer.psantos1\\source\\repos\\cadastrocliente\\cadastrocliente\\etnia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|solutionrelative:etnia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|c:\\users\\eliezer.psantos1\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{110D79C2-E351-4386-B027-E8256BCF480D}|CadastroCliente.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "etnia.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\etnia.cs",
+              "RelativeDocumentMoniker": "etnia.cs",
+              "ToolTip": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\etnia.cs*",
+              "RelativeToolTip": "etnia.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:01:06.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\endereco.cs",
+              "RelativeDocumentMoniker": "endereco.cs",
+              "ToolTip": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\endereco.cs*",
+              "RelativeToolTip": "endereco.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:29:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\ClienteTipo.cs",
+              "RelativeDocumentMoniker": "ClienteTipo.cs",
+              "ToolTip": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\ClienteTipo.cs*",
+              "RelativeToolTip": "ClienteTipo.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:40:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\Cliente.cs*",
+              "RelativeToolTip": "Cliente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:38:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eliezer.psantos1\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:30:27.875Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
