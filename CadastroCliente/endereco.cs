@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace CadastroCliente
 {
-    internal class endereco
+   internal class endereco
     {
-        string logradouro { get; set; }
-        string complemento { get; set; }
-        string numero { get; set; }
-        string bairro { get; set; }
-        string municipio { get; set; }
-        string estado { get; set; }
-        string cep { get; set; }
+       public string Logradouro { get; set; }
+       public string complemento { get; set; }
+       public int NumeroCasa { get; set; }
+       public string Bairro { get; set; }
+       public string Municipio { get; set; }
+       public string Estado { get; set; }
+       public string Cep { get; set; }
     }
 }

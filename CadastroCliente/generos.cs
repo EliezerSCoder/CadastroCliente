@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace CadastroCliente
 {
-    internal class generos
-    {
-        enum genero
+      
+        enum generos
         {
             Masculino, 
             Feminino,
             Outros
 
         }
-    }
+  
 }

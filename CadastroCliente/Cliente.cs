@@ -11,16 +11,20 @@ namespace CadastroCliente
         public Cliente dados {  get; set; }
 
         public string Nome { get; set; }
-        public int id { get; set; }
+        public int Id { get; set; }
         public string data { get; set; }
         public string telefone { get; set; }
         public string email { get; set; }
         public string nomesocial { get; set; }
         public bool estrangeiro { get; set; }
-        public ClienteTipo tipocliente { get; set; }
-        public endereco endereco { get; set; }
-        public etnia etnia { get; set; }
-       public generos generos { get; set; } 
+        public TipoCliente tipocliente { get; set; }
+        public endereco EnderecoCliente { get; set; }
+        public etinia etnia { get; set; }
+       public generos generos { get; set; }
+       
     }
    
 }
+ 
+
+   
