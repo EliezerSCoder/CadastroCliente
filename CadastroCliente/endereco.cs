@@ -10,7 +10,7 @@ namespace CadastroCliente
     {
        public string Logradouro { get; set; }
        public string complemento { get; set; }
-       public int NumeroCasa { get; set; }
+       public string NumeroCasa { get; set; }
        public string Bairro { get; set; }
        public string Municipio { get; set; }
        public string Estado { get; set; }
